@@ -1,0 +1,4 @@
+torch==1.12.1
+transformers==4.22.1
+pandas==1.5.3
+scikit-learn==1.0.2
